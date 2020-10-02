@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Nitesh 
+## Hey there! I'm Nitesh 👋
 - 👨‍🎓 &nbsp;CSE undergrad at Birla Institute of Technology, Mesra <br/>
 - 👨‍💻 &nbsp;I am a jack of all trades, Language Independent Programmer <br/>
 - 🤩 &nbsp;I love to explore new technologies to solve real-life problems <br/>
