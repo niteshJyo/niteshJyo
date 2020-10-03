@@ -3,12 +3,16 @@
 - 👨‍💻 &nbsp;I am a jack of all trades, Language Independent Programmer <br/>
 - 🤩 &nbsp;I love to explore new technologies to solve real-life problems <br/>
 
+### Whatcha upto? 🤓
+- 🌱 &nbsp; I'm currently learning Django
+- 🚀 &nbsp; Exploring my interests in Deep Learning 
+- 🧐 &nbsp; Prepping for interviews and on the lookout for job opportunities
 
 ### We can talk about 💬
 - ✨ &nbsp;Open Innovation <br/>
 - 💻 &nbsp;Coding Concepts <br/>
 - 📰 &nbsp;New Technologies <br/>
-- 🧐 &nbsp;Deep Philosophical Questions if you're feeling lucky <br/>
+- 😇 &nbsp;Deep Philosophical Questions if you're feeling lucky <br/>
 
 
 ### Connect with me 🔗
